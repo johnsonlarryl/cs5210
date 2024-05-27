@@ -1,0 +1,15 @@
+name: robot_navigation
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - jupyter
+  - matplotlib
+  - pandas
+  - pydot
+  - python=3.9.5
+  - pytest
+  - scikit-learn
+  - seaborn
